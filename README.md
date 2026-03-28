@@ -1,9 +1,13 @@
-# First-Project
+# PWA Calorie Tracker
 
 ## By ZeroTheCat72
-Not sure what its gonna be exactly about, probably some PWA to publish to the Microsoft store.
-Maybe a music player for starters, because I have a really cool idea for a feature that I never see companies do.
+Hello. This is one of my first real programming projects that actually try to solve a problem.
+Its basically an app that tries to measure calorie intake, and gets you data super easily (I hope)
 
-## Features
+## Features (if I ever make it)
 
-Unfortunately, you are gonna have to wait.
+### Calendar
+A calendar, showing every day calories that were tracked.
+
+### Calories for loads of foods
+I might try to get the data via the Australian food composition database, its basically the backbone of it.
